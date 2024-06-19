@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mrvalbass
-- 👀 I’m interested in learning Web Dev
-- 🌱 I’m currently learning Python, JS, Ruby, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Valentin
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning evrything that can make me a better web developer
+- 📫 You can contact me via email : vvm.guillot@gmail.com
 
 <!---
 mrvalbass/mrvalbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
