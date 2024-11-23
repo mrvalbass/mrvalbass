@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Valentin
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning evrything that can make me a better web developer
+- 👀 I’m a FullStack WebDeveloper React / Node (JS or TS)
+- 🌱 I’m looking for new opportunities either in the Annecy/Geneva area or full-remote
+- 🔍 Check my portfolio : https://valentinguillot.fr
 - 📫 You can contact me via email : vvm.guillot@gmail.com
 
 <!---
